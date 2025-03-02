@@ -4,7 +4,7 @@
 -
 - 📫 you can reach me through my mail mu3355232@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 
+-  🚀 **Let's build something amazing together!**
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
@@ -47,6 +47,14 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge&logo=verilog&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ###
 
