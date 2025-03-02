@@ -55,6 +55,48 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+import pygame
+
+# Initialize pygame
+pygame.init()
+
+# Set up display
+WIDTH, HEIGHT = 800, 600
+screen = pygame.display.set_mode((WIDTH, HEIGHT))
+pygame.display.set_caption("Computer Animation")
+
+# Load computer image
+computer_img = pygame.image.load("computer.png")  # Add a computer image in the same directory
+computer_img = pygame.transform.scale(computer_img, (100, 100))
+
+# Define colors
+WHITE = (255, 255, 255)
+
+# Initial position
+x, y = 50, HEIGHT // 2
+speed_x = 5
+
+# Main loop
+running = True
+while running:
+    pygame.time.delay(30)  # Control animation speed
+
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+
+    # Move the computer
+    x += speed_x
+    if x + 100 > WIDTH or x < 0:
+        speed_x = -speed_x  # Reverse direction
+
+    # Draw background and image
+    screen.fill(WHITE)
+    screen.blit(computer_img, (x, y))
+    
+    pygame.display.update()
+
+pygame.quit()
 
 ###
 
