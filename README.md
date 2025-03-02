@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MU1H2A4M
+- 👋 Hi, I’m MUHAMMAD UZAIR
 - 
-- 🌱 I’m currently learning COMPUTER ENGINEERING
+- 🌱 Computer Engineer | web developer frontend |python developer
 -
-- 📫 you can reach me through my mail
+- 📫 you can reach me through my mail mu3355232@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
