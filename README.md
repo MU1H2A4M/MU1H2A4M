@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MUHAMMAD UZAIR
 - 
-- 🌱 Computer Engineer | web developer frontend |python developer
+- 🌱 Computer Engineer | web developer frontend | python developer
 -
 - 📫 you can reach me through my mail mu3355232@gmail.com
 - 😄 Pronouns: ...
